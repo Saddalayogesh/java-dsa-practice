@@ -1,4 +1,4 @@
-package com.java.practice;
+package com.java.dsa.array;
 
 public class PrintArray {
     public static void main(String[] args) {
