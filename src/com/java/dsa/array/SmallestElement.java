@@ -2,7 +2,7 @@ package com.java.dsa.array;
 
 public class SmallestElement {
     public static void main(String[] args) {
-        int[] arr = {10, 5, 20, 3, 15};
+        int[] arr = {10, 5, 20, 30, 15};
 
         int min = arr[0];
 
