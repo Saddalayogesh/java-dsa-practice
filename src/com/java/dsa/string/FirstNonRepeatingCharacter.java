@@ -4,7 +4,7 @@ public class FirstNonRepeatingCharacter {
 
     public static void main(String[] args) {
 
-        String str = "swiss";
+        String str = "sswiss";
 
         for (int i = 0; i < str.length(); i++) {
 
